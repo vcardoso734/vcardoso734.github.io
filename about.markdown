@@ -9,8 +9,9 @@ permalink: /about/
 
 When it comes to getting the job done right, you need a documentation guru with a broad skillset (hint: that's me). My technical acumen and experience in the software industry means that I know what needs to be done and how to do it.
 
-I've worn many hats throughout my career -- which is good because I happen to like hats. That experience lets me write for a technical audience, evangelize new products to developers and business partners, and train average end users on new software.
+I've worn many hats throughout my career -- from marketing specialist to trainer to product manager. That experience lets me write for a technical audience, evangelize new products to developers and business partners, and train average end users on new software.
 
-I'm a Northeasterner transplanted to the Midwest. That sentence goes a long way in describing my sense of humor and outlook on life. When not working, I enjoy watching and reading science fiction, working on house projects, and exploring my hometown's culinary delights.
+I'm a Northeasterner transplanted to the Midwest. When not working, I enjoy watching and reading science fiction, working on house projects, and exploring my hometown's culinary delights.
 
 You can find out more about my work history and skillset on [LinkedIn](https://www.linkedin.com/in/victorcardoso/).
+
