@@ -28,7 +28,7 @@ I took existing documentation from my portfolio and converted it into the [Markd
 
 ### Publishing
 
-I made changes in my local Git repository and pushed it to a Git staging branch before commiting it to the main branch for display on GitHub Pages.
+I made changes in my local Git repository and pushed it to a Git staging branch before commiting it to the main branch for display.
 
 ### Technologies Used
 
