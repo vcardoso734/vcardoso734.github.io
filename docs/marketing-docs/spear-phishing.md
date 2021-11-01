@@ -9,7 +9,7 @@ nav_order: 2
 
 | About this example                                           |
 | :----------------------------------------------------------- |
-| *This article was written in 2014 for a newsletter distributed to a small IT company's customers. The goal was to warn customers about the dangers of a specific kind of phishing attack and to inspire them to take action..<br /><br />Tools used: MS-Word* |
+| *This article was written in 2014 for a newsletter distributed to a small IT company's customers. The goal was to warn customers about the dangers of a specific kind of phishing attack and to inspire them to take action.<br /><br />Tools used: MS-Word* |
 
 You’ve probably heard the term “phishing” before. It’s an attempt to steal sensitive information (like usernames, passwords, or credit cards) by pretending to be a trustworthy source, usually by email. Well, you need to know about something called “spear phishing,” because it’s even more sinister, and it shows how smart cybercriminals are becoming.
 
