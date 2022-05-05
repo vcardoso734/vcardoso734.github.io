@@ -17,3 +17,7 @@ typora-root-url: ../../
 5. When asked for a certificate password, leave it blank and click **OK.**<br /> **P12 files cannot be password protected for the mag+ publishing process to work.**
 6. When asked for the login password, enter your Mac account password and click **Allow**.
 7. Your P12 file is now saved to your Distribution Files folder.
+
+### App Creation: Next Steps
+
+Creating distribution certificates and P12 files is only the beginning of the iOS app distribution process. Refer to the additional articles in this section to learn how to set up provisioning profiles and configure in-app purchases.
