@@ -22,7 +22,7 @@ typora-root-url: ../../
 
 5. Click on **Choose File** and select the CSR file you created previously.
 6. Click **Continue**.
-7. Your distribution certificate is now ready. Click on **Download** to save the CER file to your Downloads folder.
+7. Your distribution certificate is now ready. Click **Download** to save the CER file to your Downloads folder.
 8. Move this file to the Distribution Files folder you created earlier.
 
 **Next Step:** [Installing a Distribution Certificate]({% link docs/technical-docs/installing-a-distribution-certificate.md %})
