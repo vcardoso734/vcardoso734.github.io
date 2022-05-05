@@ -11,7 +11,7 @@ typora-root-url: ../../
 
 | About this example                                           |
 | :----------------------------------------------------------- |
-| *This article was for a former employer's online knowledge base. It explains how to create necessary files and certificates for iOS apps that are built by the company's publishing system.<br /><br />Customers who used the system were typically IT professionals without programming experience. Because of this, the documentation could be more sophisticated than something written for the average consumer, but still required detailed instructions on how to navigate the process.<br /><br />Tools used: ScreenSteps, Photoshop, Zendesk* |
+| *This article was for a former employer's online knowledge base. It explains how to create the necessary files and certificates for iOS apps that are built by the company's publishing system.<br /><br />Customers who used the system were typically IT professionals without programming experience. This meant that the documentation could be more sophisticated than something written for the average consumer, but still required detailed instructions on how to navigate the process.<br /><br />Tools used: ScreenSteps, Photoshop, Zendesk* |
 
 ## Introduction
 
