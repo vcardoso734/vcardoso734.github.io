@@ -11,7 +11,7 @@ typora-root-url: ../../
 
 1. Locate the CER file you saved in your Distribution Files folder.
 2. Double-click the file. It will open the Keychain Access application.
-3. A window containing the CER file will appear. It will have the name "iPhone Distribution <firstname> <lastname>" and will expire one year from today's date.<br /><br />
+3. The CER file will be installed and a window containing the certificate will appear. It will have the name "iPhone Distribution <firstname> <lastname>" and will expire one year from today's date.<br /><br />
    <img src="/files/images/dist-cert-3.png" alt="dist-cert-3" style="zoom: 33%;" />
 
 Note
