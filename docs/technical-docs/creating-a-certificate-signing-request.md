@@ -11,15 +11,17 @@ typora-root-url: ../../
 
 1. On your Mac, go to the folder **Macintosh HD >** **Applications > Utilities** and open the **Keychain Access** application.
 
-2. Go to **Keychain Access > Certificate Assistant > Request a Certificate from a Certificate Authority...**
+2. Go to **Keychain Access > Certificate Assistant > Request a Certificate from a Certificate Authority...** This launches the Certificate Assistant.
 
-3. This launches the Certificate Assistant. In the Request area, select **Saved to disk** and click **Continue**. <br />
+3. In the Request area, select **Saved to disk**.
+
+4. Click **Continue**. <br />
 
    <img src="/files/images/csr-request-2.png" alt="csr-request-2" style="zoom: 33%;" />
 
-4. You will be prompted to save the CSR file. Save it in the Distribution Files folder you created earlier.
+5. You will be prompted to save the CSR file. Save it in the Distribution Files folder you created earlier.
 
-5. Click **Done** to exit the Certificate Assistant.
+6. Click **Done** to exit the Certificate Assistant.
 
 **Next Step:** [Creating a Distribution Certificate (CER)]({% link docs/technical-docs/creating-a-distribution-certificate.md %})
 

@@ -11,7 +11,7 @@ typora-root-url: ../../
 
 | About this example                                           |
 | :----------------------------------------------------------- |
-| *I took on some contract work for the College Board, the organization responsible for the SAT, the Advanced Placement Program, and BigFuture. They wanted detailed documentation, created per role, on how to use their content management system.<br /><br />I ultimately produced 6 user guides totaling 300 pages over 8 weeks. The guides were created in Adobe InDesign, with final versions exported to PDF.<br /><br />The following article shows how to search for files in the Adobe InCopy application using a panel unique to their CMS.<br /><br />Tools used: MS-Word, Adobe InDesign, Adobe InCopy, Adobe Photoshop, Adobe Acrobat* |
+| *I took on some contract work for the College Board, the organization responsible for the SAT, the Advanced Placement Program, and BigFuture. They wanted detailed documentation (created per role) on how to use their content management system.<br /><br />I ultimately produced 6 user guides totaling 300 pages over 8 weeks. The guides were created in Adobe InDesign with final versions exported to PDF.<br /><br />The following article shows how to search for files in the Adobe InCopy application using a panel unique to their CMS.<br /><br />Tools used: MS-Word, Adobe InDesign, Adobe InCopy, Adobe Photoshop, Adobe Acrobat* |
 
 ## Introduction
 {: .no_toc }
